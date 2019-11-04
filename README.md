@@ -1,6 +1,6 @@
 # prolog
 /*
 kabonzo Ramazani
-csce3420
+csce4430
 prolog version of python peg puzzle
 */
